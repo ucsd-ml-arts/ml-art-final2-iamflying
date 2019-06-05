@@ -1,12 +1,10 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammates' contact info, if appropriate)
+Zijian Ding, zding@ucsd.edu
 
 ## Abstract Proposal
 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+Our final project is to "make up" a classic movie scene Titanic - "I'm Flying" with style transfer and generative audio. It can be seen as a revisit of both Project 3 - Generative Audio and Project 4 - Generative Visual. The style transfer and generative audio will be conducted by GAN and DeepVoice3 model respectively. We hope to provide a new look of the movie scene: we will test different style type and audio model and select the best one. We will play this scene next Wednesday in the final project presentations.
 
 ## Project Report
 
