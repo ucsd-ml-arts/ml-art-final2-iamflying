@@ -19,8 +19,6 @@ Briefly describe the files that are included with your repository:
 - trained models
 In ChatterBot, we use the "chatterbot.corpus.english" set to train the robot. 
 In DeepVoice, we download the pretrianed multi speaker synsethis model("20171222_deepvoice3_vctk108_checkpoint_step000300000.pth").  
-We can see the attention plot of the multi speaker model:   
-![""](https://github.com/ucsd-ml-arts/generative-audio-group-icrtech/blob/master/pic/attention.png)  
 
 - training data (or link to training data)
 
