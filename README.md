@@ -41,14 +41,14 @@ Documentation of your results in an appropriate format, both links to files and 
 
 ## Technical Notes
 
-#ChatterBot
+- ChatterBot
 To build the ChatterBot: clone the repository in:https://github.com/gunthercox/ChatterBot following the instructions to build your own chatterbot.(first pip install packages and build the setup file then download the 'en' of spacy)
 When facing the warning of:
 /datasets/home/34/734/yizhu/.local/lib/python3.6/site-packages/chatterbot/corpus.py:38: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
   return yaml.load(data_file)   
 Please follow the instruction of the hint.
 
-#Style Transfer
+- Style Transfer
 To perform style transfer, please run style_transfer_generative_code.ipynb modified from https://github.com/elleryqueenhomels/arbitrary_style_transfer.
  
 Any implementation details or notes we need to repeat your work. 
