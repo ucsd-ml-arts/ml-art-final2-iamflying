@@ -38,7 +38,8 @@ Documentation of your results in an appropriate format, both links to files and 
 ## Technical Notes
 
 Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
+- Packages:
+    cv2
 - Does it run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
