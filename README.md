@@ -41,17 +41,19 @@ Documentation of your results in an appropriate format, both links to files and 
 
 ## Technical Notes
 
-To build the ChatterBot: we need to clone the repository in:https://github.com/gunthercox/ChatterBot following the instructions to build your own chatterbot.(first pip install packages and build the setup file then download the 'en' of spacy)
-When facing the warning of:  
+#ChatterBot
+To build the ChatterBot: clone the repository in:https://github.com/gunthercox/ChatterBot following the instructions to build your own chatterbot.(first pip install packages and build the setup file then download the 'en' of spacy)
+When facing the warning of:
 /datasets/home/34/734/yizhu/.local/lib/python3.6/site-packages/chatterbot/corpus.py:38: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
   return yaml.load(data_file)   
-Please follow the instruction of the hint. 
+Please follow the instruction of the hint.
+
+#Style Transfer
 To perform style transfer, please run style_transfer_generative_code.ipynb modified from https://github.com/elleryqueenhomels/arbitrary_style_transfer.
  
 Any implementation details or notes we need to repeat your work. 
 - Packages:
     cv2
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
 
