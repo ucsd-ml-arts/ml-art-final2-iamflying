@@ -18,15 +18,16 @@ Upload your project report (4 pages) as a pdf with your repository, following th
 Briefly describe the files that are included with your repository:
 - trained models
 In ChatterBot, we use the "chatterbot.corpus.english" set to train the robot. 
-In DeepVoice, we download the pretrianed multi speaker synsethis model("20171222_deepvoice3_vctk108_checkpoint_step000300000.pth").  
+In DeepVoice, we download the pretrianed multi speaker synsethis model
+("20171222_deepvoice3_vctk108_checkpoint_step000300000.pth").  
+In ArbitraryStyleTransfer, we use the pretrained model and set the style weight to 2.0.
 
 - training data (or link to training data)
 
 ## Code
 
 Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb, videoaudio_replacer.ipynb
+- Jupyter notebooks: style_transfer_generative_code.ipynb, videoaudio_replacer.ipynb
 
 ## Results
 
@@ -40,11 +41,12 @@ Documentation of your results in an appropriate format, both links to files and 
 
 ## Technical Notes
 
-To build the ChatterBot: we need to clone the repository in:https://github.com/gunthercox/ChatterBot floowing the instructions to build your own chatterbot.(first pip install packages and build the setup file then download the 'en' of spacy)
+To build the ChatterBot: we need to clone the repository in:https://github.com/gunthercox/ChatterBot following the instructions to build your own chatterbot.(first pip install packages and build the setup file then download the 'en' of spacy)
 When facing the warning of:  
 /datasets/home/34/734/yizhu/.local/lib/python3.6/site-packages/chatterbot/corpus.py:38: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
   return yaml.load(data_file)   
 Please follow the instruction of the hint. 
+To perform style transfer, please run style_transfer_generative_code.ipynb modified from https://github.com/elleryqueenhomels/arbitrary_style_transfer.
  
 Any implementation details or notes we need to repeat your work. 
 - Packages:
@@ -58,4 +60,5 @@ References to any papers, techniques, repositories you used:
 - Repositories
 1.ChatterBot https://github.com/gunthercox/ChatterBot  
 2.DeepVoicev3 https://github.com/r9y9/deepvoice3_pytorch
+3.ArbitraryStyleTransfer https://github.com/elleryqueenhomels/arbitrary_style_transfer
 - Blog posts
