@@ -16,10 +16,14 @@ Our final project is to "make up" a classic movie scene Titanic - "I'm Flying" w
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
+
 - trained models
+
 In ChatterBot, we use the "chatterbot.corpus.english" set to train the robot. 
+
 In DeepVoice, we download the pretrianed multi speaker synsethis model.
-("20171222_deepvoice3_vctk108_checkpoint_step000300000.pth").  
+("20171222_deepvoice3_vctk108_checkpoint_step000300000.pth").
+
 In ArbitraryStyleTransfer, we use the pretrained model and set the style weight to 2.0.
 
 ## Code
