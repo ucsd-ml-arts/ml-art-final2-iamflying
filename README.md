@@ -12,7 +12,7 @@ Changhao Shi, cshi@ucsd.edu
 It can also be seen as a revisit of both Project 3 - Generative Audio and Project 4 - Generative Visual. The style transfer and generative audio will be conducted by GAN and DeepVoice3 & ChatterBot model respectively.
 
 ## Project Report
-It is uploaded in this repo.
+It is uploaded to this repo.
 
 ## Model/Data
 
