@@ -32,7 +32,7 @@ Codes for generating your project:
 - ChatterBot and audio generation: videoaudio_replacer.ipynb
 
 ## Results
-We have tried several style image and selected the best effect. Also, for the audio generation we tried different inputs.
+We have tried several style image and selected the best effect. Also, for the audio generation we tried different inputs. More details are discussed in our report.
 
 The final artwork is uploaded to YouTube: 
 https://www.youtube.com/watch?v=bkWVaSbXI4w
@@ -73,8 +73,8 @@ Required package: cv2
 
 References to repositories we used:
 
-1.ChatterBot https://github.com/gunthercox/ChatterBot  
+1. ChatterBot https://github.com/gunthercox/ChatterBot  
 
-2.DeepVoicev3 https://github.com/r9y9/deepvoice3_pytorch
+2. DeepVoicev3 https://github.com/r9y9/deepvoice3_pytorch
 
-3.ArbitraryStyleTransfer https://github.com/elleryqueenhomels/arbitrary_style_transfer
+3. ArbitraryStyleTransfer https://github.com/elleryqueenhomels/arbitrary_style_transfer
