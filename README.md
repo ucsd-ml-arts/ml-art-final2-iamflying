@@ -1,13 +1,15 @@
-# Final Project
+# Final Project: “A Picture of Him” - Video Style Transfer and Chatbot Audio Generation
 
 Zijian Ding, zding@ucsd.edu  
 Yidi Zhu, yizhu@ucsd.edu  
 Jishi Lyu, jlyu@ucsd.edu  
 Changhao Shi, cshi@ucsd.edu
 
-## Abstract Proposal
+## Abstract
 
-Our final project is to "make up" a classic movie scene Titanic - "I'm Flying" with style transfer and generative audio. It can be seen as a revisit of both Project 3 - Generative Audio and Project 4 - Generative Visual. The style transfer and generative audio will be conducted by GAN and DeepVoice3 model respectively. We hope to provide a new look of the movie scene: we will test different style type and audio model and select the best one. We will play this scene next Wednesday in the final project presentations.
+“I don't even have a picture of him. He exists now only in my memory." The moving lines of Rose in Titanic have touched thousands of people deeply. In this project, we hope to eliminate the regret of Rose by applying style transfer to generate the scene of Jack and Rose “I’m flying”. To make the scene more interesting, we also use chatbot audio generation to produce new lines of the scene.
+
+It can also be seen as a revisit of both Project 3 - Generative Audio and Project 4 - Generative Visual. The style transfer and generative audio will be conducted by GAN and DeepVoice3 model respectively.
 
 ## Project Report
 It is uploaded in this repo.
