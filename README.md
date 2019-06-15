@@ -9,7 +9,7 @@ Changhao Shi, cshi@ucsd.edu
 
 “I don't even have a picture of him. He exists now only in my memory." The moving lines of Rose in Titanic have touched thousands of people deeply. In this project, we hope to eliminate the regret of Rose by applying style transfer to generate the scene of Jack and Rose “I’m flying”. To make the scene more interesting, we also use chatbot audio generation to produce new lines of the scene.
 
-It can also be seen as a revisit of both Project 3 - Generative Audio and Project 4 - Generative Visual. The style transfer and generative audio will be conducted by GAN and DeepVoice3 model respectively.
+It can also be seen as a revisit of both Project 3 - Generative Audio and Project 4 - Generative Visual. The style transfer and generative audio will be conducted by GAN and DeepVoice3 & ChatterBot model respectively.
 
 ## Project Report
 It is uploaded in this repo.
