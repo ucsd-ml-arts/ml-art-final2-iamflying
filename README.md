@@ -31,7 +31,8 @@ Your code for generating your project:
 - ChatterBot and audio generation: videoaudio_replacer.ipynb
 
 ## Results
-
+![question](https://github.com/ucsd-ml-arts/ml-art-final2-iamflying/blob/master/some_example/Doyoutrustme.png)
+![generated answer](https://github.com/ucsd-ml-arts/ml-art-final2-iamflying/blob/master/some_example/Sortof.png)
 The final artwork is uploaded to YouTube: 
 https://www.youtube.com/watch?v=bkWVaSbXI4w
 
