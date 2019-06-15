@@ -46,9 +46,7 @@ Please follow the instruction of the hint.
 
 To perform style transfer, please run style_transfer_generative_code.ipynb modified from https://github.com/elleryqueenhomels/arbitrary_style_transfer.
  
-Any implementation details or notes we need to repeat your work. 
-- Packages:
-    cv2
+cv2 package is required.
 
 ## Reference
 
